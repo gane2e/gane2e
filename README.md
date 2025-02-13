@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-스프링부트와 JPA를 활용한 온라인 학습관리 시스템
+스프링부트와 JPA를 활용한 온라인 학습관리 시스템<br />
 스프링부트(온라인 학습) + Ai 추천서비스 적용
 <!--
 **gane2e/gane2e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
