@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱[스프링부트와 JPA를 활용한 온라인 학습관리 시스템](http://탄력적IP:PORT/루트디렉토리(프로젝트명)/)<br />
-🌱스프링부트(온라인 학습) + Ai 추천서비스 적용<br />
-🌱스프링 프레임워크를 활용한 온라인 휴대폰 판매 사이트
+🌱[스프링부트와 JPA를 활용한 온라인 학습관리 시스템](https://github.com/gane2e/Learniverse_By_SpringBoot)<br />
+🌱[스프링부트(온라인 학습) + Ai 추천서비스 적용](https://github.com/gane2e/SpringBoot_with_FastAPI)<br />
+🌱[스프링 프레임워크를 활용한 온라인 휴대폰 판매 사이트](https://github.com/gane2e/Umobile_By_Spring)<br />
 <!--
 **gane2e/gane2e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
